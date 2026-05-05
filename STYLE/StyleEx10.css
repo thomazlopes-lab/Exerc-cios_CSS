@@ -61,7 +61,7 @@ a:hover {
 }
 
 .menu {
-    position: relative;
+    position: fixed;
     top: 15px;
     border-right: solid 2px #ef5a2c;
     padding: 10px;
